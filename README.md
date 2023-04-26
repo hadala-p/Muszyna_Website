@@ -6,7 +6,7 @@ Website design presenting the spa town of Muszyna. The website has tabs about hi
 ![alt text](https://github.com/hadala-p/Muszyna_Website/blob/main/img/Main_page.png?raw=true)
 
 # Features
-The website is responsive, it has the content of the website downloaded from the database. The ability to register and log in to the site, and for logged in users the ability to add comments.
+The website is responsive, it has the content of the website downloaded from the database. The ability to register and log in to the site, and for logged in users the ability to add comments. The admin can edit the content from the page in the admin panel.
 #
 ![alt text](https://github.com/hadala-p/Muszyna_Website/blob/main/img/Categories.png?raw=true)
 #
